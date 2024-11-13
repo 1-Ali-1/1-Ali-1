@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a software engineer 👨‍💻<br>mobile application developer using Flutter  🩵<br>International chess player ♟️<br>love all sports on the planet 🏅
+Hey there! I'm a software engineer who loves turning ideas into reality with Flutter 🩵. I’m passionate about creating user-friendly and efficient mobile apps, and I enjoy every part of the coding journey.
+
+Outside of coding, I’m an international chess player ♟️ and an all-around sports lover 🏅. Whether it's a game of chess or a pickup match, I’m always up for a challenge!
 
 
 ## 🌐 Socials:
