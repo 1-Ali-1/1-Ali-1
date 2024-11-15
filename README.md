@@ -3,7 +3,7 @@ Hi there! I'm a Flutter developer who loves building great mobile experiences �
 
 Outside of coding, I’m an international chess player ♟️ and a big fan of sports 🏅. Whether it's on the chessboard or on the field, I love taking on new challenges and pushing myself to improve every day.
 <br>
-
+<br>
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-farhad-90b4b8198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali farhad" height="25" width="35" /></a>
