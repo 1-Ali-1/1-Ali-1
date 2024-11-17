@@ -1,7 +1,7 @@
 ## 💫 About Me:
-Hi there! I'm a Software Engineer and expert Flutter developer who loves building great mobile experiences 🩵. I have a solid background in turning ideas into user-friendly apps and have successfully worked remotely, collaborating with teams across different time zones.
+Hi there! I'm a Software Engineer and expert Flutter developer with a passion for building high-quality mobile applications 🩵. I have a solid background in transforming ideas into user-friendly apps and have successfully worked remotely and collaborated with teams across time zones.
 
-Outside of coding, I’m an international chess player ♟  and a big fan of sports 🏅. Whether it's on the chessboard or on the field, I love taking on new challenges and pushing myself to improve every day.
+Outside of coding, I am an international chess player ♟ and a sports enthusiast 🏅. I love taking on new challenges, whether on the chessboard or in sports, and constantly pushing myself to grow.
 <br>
 <br>
 ## 🌐 Socials:
