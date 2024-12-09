@@ -33,6 +33,7 @@ Outside of coding, I am an international chess player ♟ and a sports enthusias
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1-ali-1&theme=dark" alt="1-ali-1" /></p>
 
 ---
+
 <br>
 <br>
 
