@@ -5,7 +5,7 @@ Outside of coding, I am an international chess player ♟ and a sports enthusias
 
 <br>
 
-[MY Portfolio Website 👨‍💻](https://ali-farhad-dev.web.app)    created with flutter
+[MY Portfolio Website 👨‍💻](https://ali-farhad-dev.web.app)    created with flutter.
 
 <br>
 
