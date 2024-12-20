@@ -1,11 +1,11 @@
 ## 💫 About Me:
 Hi there! I'm a software engineer and expert Flutter developer 🩵 passionate about building high-quality mobile applications. I have a solid background in transforming ideas into user-friendly apps and have worked remotely and collaborated with teams across time zones.
 
-Outside of coding, I am an international chess player ♟ and a sports enthusiast 🏅. I love taking on new challenges, whether on the chessboard or in sports, and constantly pushing myself to grow.
+Outside of coding, I am an international chess player ♟ and a sports enthusiast 🏅. I love taking on new challenges, whether on the chessboard or in sports, and constantly pushing myself to grow
 
 <br>
 
-[MY Portfolio Website 👨‍💻](https://ali-farhad-dev.web.app)    created with flutter. <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="23" height="23"/> 
+[MY Portfolio Website 👨‍💻](https://ali-farhad-dev.web.app)    created with flutter.   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="23" height="23"/> 
 
 <br>
 
