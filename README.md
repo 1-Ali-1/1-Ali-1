@@ -5,7 +5,7 @@ Outside of coding, I am an international chess player ♟ and a sports enthusias
 
 <br>
 
-[MY Portfolio Website 👨‍💻](https://ali-farhad-dev.web.app)    created with flutter.   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="23" height="23"/> 
+[MY Portfolio Website 👨‍💻](https://ali-farhad-dev.web.app)    created with flutter   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="23" height="23"/> 
 
 <br>
 
