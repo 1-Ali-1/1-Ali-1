@@ -25,6 +25,7 @@ Outside of coding, I am an international chess player ♟ and a sports enthusias
 
   <br>
   <br>
+  <br>
   
 ## 📊 GitHub Stats:
 
